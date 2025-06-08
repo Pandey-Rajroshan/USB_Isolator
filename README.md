@@ -53,8 +53,3 @@ If you experience connectivity issues:
 A USB isolator is a must-have for environments requiring reliable and interference-free USB communication. By shielding devices from electrical noise and ground loops, it improves overall system stability and safeguards connected peripherals.
 
 Whether you're troubleshooting signal issues or ensuring long-term protection for expensive equipment, a USB isolator is a simple but effective solution.
-
----
-
-## License
-This documentation is released under the MIT License. Feel free to modify and distribute it as needed.
